@@ -4,5 +4,6 @@ module ArtistsHelper
   end
 
   def artist_select(one, two)
+    binding.pry
   end
 end
